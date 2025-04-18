@@ -1,10 +1,9 @@
-,
 {
   "chainId": 101,
-  "address": "3NytSHfXZRHXeS8B7AY5hvXAUhLtJPPeqEyKb7tBbXads8JYmDcBRd955R1T6AxMTMoeqpgLNoY4v7Pgv7ciDQx5",
+  "address": "CnrztoxPSzVjGWudSwZ8D14Pz9FgRKvtzJT3GynUbaF",
   "symbol": "DAUG",
   "name": "Daughter Coin",
   "decimals": 6,
-  "logoURI": "https://yourlogo.com/daughtercoin.png",
-  "tags": ["community", "charity", "love", "daughter"]
+  "logoURI": "https://i.imgur.com/YrtJB1w.png",
+  "tags": ["utility", "community", "charity"]
 }
